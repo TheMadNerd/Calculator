@@ -1,0 +1,23 @@
+.calcButtons {
+ margin: 15px;
+}
+
+button{
+  width: 23%;
+  padding: 20px;
+  margin: 1%;
+}
+
+button:hover {
+  transition: 1s;
+  background-color: rgb(217, 219, 219);
+}
+
+input {
+  box-sizing: border-box;
+  width: 98%;
+  padding: 20px;
+  margin: 1%;
+  
+  
+}
